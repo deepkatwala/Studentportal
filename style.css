@@ -1,0 +1,237 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 853px;
+	 height: 1136px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #L1Image 
+{ 
+	 left: 285px; 
+	 top: 448px; 
+	 position: absolute; 
+	 width: 282px;
+	 height: 240px;
+	 z-index:1;
+} 
+
+ #L1Imagecopy 
+{ 
+	 left: 285px; 
+	 top: 448px; 
+	 position: absolute; 
+	 width: 282px;
+	 height: 240px;
+	 z-index:2;
+} 
+
+ #layer_3 
+{ 
+	 left: 276px; 
+	 top: 609px; 
+	 position: absolute; 
+	 width: 301px;
+	 height: 24px;
+	 z-index:3;
+} 
+
+ #RollNo 
+{ 
+	 left: 292px; 
+	 top: 683px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 13px;
+	 z-index:4;
+} 
+
+ #IDCardNo 
+{ 
+	 left: 292px; 
+	 top: 721px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 13px;
+	 z-index:5;
+} 
+
+ #MJMU0001 
+{ 
+	 left: 291px; 
+	 top: 745px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 14px;
+	 z-index:6;
+} 
+
+ #Namemiddilenamesur 
+{ 
+	 left: 333px; 
+	 top: 558px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 40px;
+	 z-index:7;
+} 
+
+ #L1Image_0 
+{ 
+	 left: 377px; 
+	 top: 333px; 
+	 position: absolute; 
+	 width: 98px;
+	 height: 84px;
+	 z-index:8;
+} 
+
+ #layer_9 
+{ 
+	 left: 276px; 
+	 top: 609px; 
+	 position: absolute; 
+	 width: 301px;
+	 height: 24px;
+	 z-index:9;
+} 
+
+ #classname 
+{ 
+	 left: 366px; 
+	 top: 615px; 
+	 position: absolute; 
+	 width: 111px;
+	 height: 12px;
+	 z-index:10;
+} 
+
+ #layer_11 
+{ 
+	 left: 415px; 
+	 top: 318px; 
+	 position: absolute; 
+	 width: 136px;
+	 height: 456px;
+	 z-index:11;
+} 
+
+ #RollNo_0 
+{ 
+	 left: 292px; 
+	 top: 683px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 13px;
+	 z-index:12;
+} 
+
+ #IDCardNo_0 
+{ 
+	 left: 292px; 
+	 top: 721px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 13px;
+	 z-index:13;
+} 
+
+ #MJMU0001_0 
+{ 
+	 left: 291px; 
+	 top: 745px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 14px;
+	 z-index:14;
+} 
+
+ #Namemiddilenamesur_0 
+{ 
+	 left: 333px; 
+	 top: 558px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 40px;
+	 z-index:15;
+} 
+
+ #L1Image_1 
+{ 
+	 left: 377px; 
+	 top: 333px; 
+	 position: absolute; 
+	 width: 98px;
+	 height: 84px;
+	 z-index:16;
+} 
+
+ #layer_17 
+{ 
+	 left: 276px; 
+	 top: 609px; 
+	 position: absolute; 
+	 width: 301px;
+	 height: 24px;
+	 z-index:17;
+} 
+
+ #layer_18 
+{ 
+	 left: 385px; 
+	 top: 252px; 
+	 position: absolute; 
+	 width: 71px;
+	 height: 227px;
+	 z-index:18;
+} 
+
+ #RollNo_1 
+{ 
+	 left: 292px; 
+	 top: 683px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 13px;
+	 z-index:19;
+} 
+
+ #IDCardNo_1 
+{ 
+	 left: 292px; 
+	 top: 721px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 13px;
+	 z-index:20;
+} 
+
+ #MJMU0001_1 
+{ 
+	 left: 291px; 
+	 top: 745px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 14px;
+	 z-index:21;
+} 
+
+ #Namemiddilenamesur_1 
+{ 
+	 left: 333px; 
+	 top: 558px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 40px;
+	 z-index:22;
+} 

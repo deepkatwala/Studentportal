@@ -1,0 +1,11 @@
+[23-Mar-2023 17:42:05 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/admin/export.php on line 9
+[23-Mar-2023 17:42:34 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/admin/export.php on line 9
+[24-Mar-2023 04:19:57 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/admin/export.php on line 9
+[30-Mar-2023 04:52:25 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student_Portal/admin/export.php on line 9
+[01-Apr-2023 11:42:24 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student_Portal/admin/export.php on line 9
+[03-Apr-2023 16:03:27 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student_Portal/admin/export.php on line 9
+[05-Apr-2023 17:34:39 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/kppoi1vkpzyp/public_html/myjainism.in/Student_Portal/admin/backid.php on line 37
+[08-Apr-2023 02:16:56 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student_Portal/admin/export.php on line 9
+[08-Apr-2023 02:24:35 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/kppoi1vkpzyp/public_html/myjainism.in/Student_Portal/admin/export.php on line 7
+[08-Apr-2023 02:24:58 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/kppoi1vkpzyp/public_html/myjainism.in/Student_Portal/admin/export.php on line 7
+[08-Apr-2023 02:25:00 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/kppoi1vkpzyp/public_html/myjainism.in/Student_Portal/admin/export.php on line 7
